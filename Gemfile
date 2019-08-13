@@ -16,6 +16,7 @@ group :development, :test do
   gem "database_cleaner"
   gem "pry-byebug"
   gem "rspec-rails"
+  gem 'tux'
 end
 
 group :test do
